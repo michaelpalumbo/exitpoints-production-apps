@@ -138,6 +138,10 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
-/images/images
+/images/images/*
 
-/images/output
+/images/output/*
+
+/videos/originals/toCrop/*
+/videos/originals/toLetterbox/*
+/videos/output/*

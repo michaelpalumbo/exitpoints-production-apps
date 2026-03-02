@@ -1,0 +1,16 @@
+{
+  "name": "concert-prep-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "convert-video": "^1.0.0",
+    "fluent-ffmpeg": "^2.1.3",
+    "sharp": "^0.33.5"
+  }
+}
