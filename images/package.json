@@ -1,0 +1,15 @@
+{
+  "name": "concert-prep-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "image-processor.js",
+  "scripts": {
+    "images": "node image-processor.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
