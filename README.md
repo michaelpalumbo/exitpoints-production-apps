@@ -16,3 +16,9 @@ Please be sure to rename images and videos with the artist's name, followed by a
 
 "michael 1.jpg"
 "michael 2.jpg"
+
+## video preparation process:
+
+After downloading the media files, organize them into the /videos/toLetterbox folder
+
+ensure any videos that are in .mov format are converted to .mp4 using https://www.freeconvert.com/video-converter

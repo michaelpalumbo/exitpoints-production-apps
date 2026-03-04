@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "images": "cd ./images && node app.js"
+    "images": "cd ./images && node app.js",
+    "videos": "cd ./videos && node app.js",
+    "profiles": "cd ./artist-profiles && node app.js"
   },
   "author": "",
   "license": "ISC"
