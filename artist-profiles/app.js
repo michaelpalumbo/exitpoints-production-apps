@@ -20,7 +20,8 @@ try {
         date: concertDate,
         number: concertNumber,
         concertID: 'EP' + concertNumber,
-        slug: `concert${concertNumber}`
+        slug: `concert${concertNumber}`,
+        
     })
 
     console.log('\n\nShow date (verify!): ', concertDate, '\n\nShow Number (verify!):', concertNumber, '\n\n')
@@ -40,7 +41,7 @@ try {
             }
         }
     })
-    igHandles += `@michaelpalumbo_ @arraymusictoronto`
+    igHandles += `@michaelpalumbo_ @arraymusictoronto @torevent.ca`
 
     let profileDoc = ``
 
@@ -93,7 +94,7 @@ try {
 
         // add hashtags
         profileDoc += `\n\n#exitpoints #exitpointsmusic #tkaronto #musicians #freeimprovisation #freeimprovisationmusic #electroacoustic #electroacousticmusic #experimentalsound #performance #concert #switchemups #goodlisteners #arraymusic #arraymusictoronto #improvisation #improvisedmusic #music #show`
-
+        entry.images = [`${entry.id.split('-')[0]} 1.`] || [ `${ entry.id } 1.` ]
         websiteUpdate.push(entry)
     })
     // console.log(profileDoc)

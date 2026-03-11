@@ -1,0 +1,4027 @@
+{
+  "concerts": [
+    {
+      "number": 1,
+      "slug": "concert1",
+      "title": "Exit Points 1",
+      "date": "February 26",
+      "datetime": "2020-02-26T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 2,
+      "slug": "concert2",
+      "title": "Exit Points 2",
+      "date": "March 23",
+      "datetime": "2020-03-23T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 3,
+      "slug": "concert3",
+      "title": "Exit Points 3",
+      "date": "April 29",
+      "datetime": "2020-04-29T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 4,
+      "slug": "concert4",
+      "title": "Exit Points 4",
+      "date": "May 27",
+      "datetime": "2020-05-27T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 5,
+      "slug": "concert5",
+      "title": "Exit Points 5",
+      "date": "June 24",
+      "datetime": "2020-06-24T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 6,
+      "slug": "concert6",
+      "title": "Exit Points 6",
+      "date": "July 29",
+      "datetime": "2020-07-29T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 7,
+      "slug": "concert7",
+      "title": "Exit Points 7",
+      "date": "August 26",
+      "datetime": "2020-08-26T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 8,
+      "slug": "concert8",
+      "title": "Exit Points 8",
+      "date": "September 30",
+      "datetime": "2020-09-30T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 9,
+      "slug": "concert9",
+      "title": "Exit Points 9",
+      "date": "October 28",
+      "datetime": "2020-10-28T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 10,
+      "slug": "concert10",
+      "title": "Exit Points 10",
+      "date": "November 25",
+      "datetime": "2020-11-25T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 11,
+      "slug": "concert11",
+      "title": "Exit Points 11",
+      "date": "January 27",
+      "datetime": "2021-01-27T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 12,
+      "slug": "concert12",
+      "title": "Exit Points 12",
+      "date": "February 24",
+      "datetime": "2021-02-24T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 13,
+      "slug": "concert13",
+      "title": "Exit Points 13",
+      "date": "March 31",
+      "datetime": "2021-03-31T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 14,
+      "slug": "concert14",
+      "title": "Exit Points 14",
+      "date": "April 28",
+      "datetime": "2021-04-28T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 16,
+      "slug": "concert16",
+      "title": "Exit Points 16",
+      "date": "June 30",
+      "datetime": "2021-06-30T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 17,
+      "slug": "concert17",
+      "title": "Exit Points 17",
+      "date": "July 28",
+      "datetime": "2021-07-28T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 18,
+      "slug": "concert18",
+      "title": "Exit Points 18",
+      "date": "August 25",
+      "datetime": "2021-08-25T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 19,
+      "slug": "concert19",
+      "title": "Exit Points 19",
+      "date": "September 30",
+      "datetime": "2021-09-30T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 20,
+      "slug": "concert20",
+      "title": "Exit Points 20",
+      "date": "October 27",
+      "datetime": "2021-10-27T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 21,
+      "slug": "concert21",
+      "title": "Exit Points 21",
+      "date": "November 24",
+      "datetime": "2021-11-24T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 22,
+      "slug": "concert22",
+      "title": "Exit Points 22",
+      "date": "December 29",
+      "datetime": "2021-12-29T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 23,
+      "slug": "concert23",
+      "title": "Exit Points 23",
+      "date": "January 26",
+      "datetime": "2022-01-26T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 24,
+      "slug": "concert24",
+      "title": "Exit Points 24",
+      "date": "February 23",
+      "datetime": "2022-02-23T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 25,
+      "slug": "concert25",
+      "title": "Exit Points 25",
+      "date": "March 30",
+      "datetime": "2022-03-30T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 26,
+      "slug": "concert26",
+      "title": "Exit Points 26",
+      "date": "April 27",
+      "datetime": "2022-04-27T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 27,
+      "slug": "concert27",
+      "title": "Exit Points 27",
+      "date": "May 25",
+      "datetime": "2022-05-25T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 28,
+      "slug": "concert28",
+      "title": "Exit Points 28",
+      "date": "June 29",
+      "datetime": "2022-06-29T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 30,
+      "slug": "concert30",
+      "title": "Exit Points 30",
+      "date": "August 31",
+      "datetime": "2022-08-31T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 31,
+      "slug": "concert31",
+      "title": "Exit Points 31",
+      "date": "October 26",
+      "datetime": "2022-10-26T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 32,
+      "slug": "concert32",
+      "title": "Exit Points 32",
+      "date": "November 30",
+      "datetime": "2022-11-30T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 34,
+      "slug": "concert34",
+      "title": "Exit Points 34",
+      "date": "January 27",
+      "datetime": "2023-01-27T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [
+        {
+          "id": "fuzzy",
+          "name": "Fuzzy",
+          "instagramUrl": "https://instagram.com/fahmidnibesh",
+          "instagram": "@fahmidnibesh",
+          "bio": "Fahmid is an improvisor from Tkarón:to. Improvisation, as a creative and generative praxis, fuels and guides his spiritual growth through an otherwise violent and hyper-consumptive economic paradigm. He is a multi-instrumentalist influenced by Will Alexander (poet), Anthony Braxton (musician, theorist), Stan Brakhage (filmmaker), Solvey Johnsgaard (visual artist), among countless others (including his cats). He has performed solo, in ensembles and residencies, and is a member of the electroacoustic duo Wenderly Park (with Joe Strutt). He studied Physics at University of Tkarón:to and is currently studying Tool Design (Machining) at Seneca College. Occasionally, he finds work as an audio technician.",
+          "images": []
+        }
+      ],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 35,
+      "slug": "concert35",
+      "title": "Exit Points 35",
+      "date": "February 24",
+      "datetime": "2023-02-24T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [
+        {
+          "id": "n-a",
+          "name": "n/a",
+          "instagramUrl": "https://instagram.com/bea.chika.bea.boom",
+          "instagram": "@bea.chika.bea.boom",
+          "bio": "Bea Labikova is a Slovak-Canadian saxophonist and improviser whose music traverses free improvisation, avant-garde, modern jazz and Slovak folk music. \n\nShe is part of many ad-hoc ensembles across Toronto as well as the avant-groove Future Proof, free improvised project “No Beginning No End” alongside Germaine Liu and William Parker, the avant-jazz group Triio and the contemporary afrobeat band Asiko Afrobeat Ensemble. \n\nIn her solo project Mount Joy, Bea couples wind instruments, vibraphone and percussion with electronic processing to create sonic landscapes that reflect the arctic tundra. Her spontaneous compositions are accompanied by large-scale visuals developed at an arts residency in Svalbard near the north pole.\n\nIn addition to specialising in saxophone, Bea has been developing her own innovative style on the fujara, (a Slovak overtone flute), exploring the fujara's percussive potential.\n\nBea is the co-founder, visual artist and one-half of the driving force behind the Women From Space Festival. ​ ​\n",
+          "images": []
+        },
+        {
+          "id": "n-a",
+          "name": "n/a",
+          "instagramUrl": "https://instagram.com/chinesefly93",
+          "instagram": "@chinesefly93",
+          "bio": "Hrysovalanti is a media artist, researcher, enthusiast and experimenter by trade. She is currently doing her PhD in Computational Arts at York University and she regularly live codes with the Endemics(@cymatiste,@artbykavi,@magfoto). Generally, in her practice she emphasizes on the creation of groups of electronic sound/kinetic sculptures that act as artificially living communities. She is always keen to jam with others and speculate about the performativity of the world. ",
+          "images": []
+        },
+        {
+          "id": "olivia-shortt",
+          "name": "Olivia Shortt",
+          "instagramUrl": "https://instagram.com/oliviash_rtt",
+          "instagram": "@oliviash_rtt",
+          "bio": "(They/Them: Anishinaabe, Nipissing First Nation) Olivia Shortt is a Tkarón:to-based. They are a multifaceted artist and storyteller whose work encompasses hybridity from start to finish.\n\nHighlights include performing Raven Chacon’s ‘For Olivia Shortt’ at The Whitney Museum of American Art (NYC) as part of Chacon’s series of solo works 'For Zitkála-Šá' during the 2022 Whitney Biennial; playing at the Lincoln Center (NYC) with the International Contemporary Ensemble; performing in their film debut in Canadian filmmaker Atom Egoyan’s 2019 film ‘Guest of Honour’; as well as recording an album of Robert Lemay’s music two kilometres underground in the SnoLAB (Neutrino Lab in Sudbury, Canada). Recent projects include a new site-specific semi-improvised opera and a commission for Blueridge Chamber Festival (Vancouver). Works created over the last two years include commissions from Long Beach Opera (California), the JACK Quartet (NYC), and Din of Shadows (Toronto).\n\nShortt was a finalist for the 2021 Toronto Arts Foundation Emerging Artist Award as well as awarded and named one of the 2020 Buddies in Bad Times’ Emerging Queer Artists. Shortt was featured in the 2020 Winter edition of Musicworks Magazine.\n",
+          "images": []
+        }
+      ],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 36,
+      "slug": "concert36",
+      "title": "Exit Points 36",
+      "date": "March 31",
+      "datetime": "2023-03-31T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [
+        {
+          "id": "tegan-dietsch",
+          "name": "Tegan Dietsch",
+          "instagramUrl": "https://instagram.com/tegandietsch",
+          "instagram": "@tegandietsch",
+          "bio": "Tegan is a tap dancer living in Toronto. She grew up exploring dance competitively at a studio and continued to do so at Queen’s University on the dance team while earning her degree in Mathematics and Engineering. Tegan’s love for the dance continues to grow as she regularly seeks out opportunities to perform, collaborate and jam with fellow tap dancers and musicians in the city and by frequently taking class. She also vinyl DJs, hosts a monthly internet radio show with Frozen Section Radio and is passionate about supporting Toronto’s vibrant music community. ",
+          "images": []
+        },
+        {
+          "id": "rudy-ray",
+          "name": "Rudy Ray",
+          "instagramUrl": "https://instagram.com/rudyraykwaku",
+          "instagram": "@rudyraykwaku",
+          "bio": "Rudy Ray Kwaku is a Ghanaian - Canadian actor and trumpeter based in Toronto. Famed for his involvement with the Wu Tang Clan, award nominations and a growing list of cameos in blockbuster movies. Born and raised in a traditional royal family, Rudy is praised as a rising thinker and cultural icon. His music explores acoustic and electronic expressions of Instrumental African Jazz and Hip-pop, R&B, Soul, and funk music. He plays the role of an industrialist or 1940s Jazz Man in many of his movie appearances on  Netflix, Amazon Prime and in Theaters. \n",
+          "images": []
+        },
+        {
+          "id": "owen-kurtz",
+          "name": "Owen Kurtz",
+          "instagramUrl": "https://instagram.com/owenkurtz",
+          "instagram": "@owenkurtz",
+          "bio": "Owen is a Toronto based musician who works with various electronics, tapes, field recordings & objects in improvisations & sound collages. Local representative for the Ministry of Phonic Services.",
+          "images": []
+        }
+      ],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 37,
+      "slug": "concert37",
+      "title": "Exit Points 37",
+      "date": "April 28",
+      "datetime": "2023-04-28T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [
+        {
+          "id": "n-a",
+          "name": "n/a",
+          "instagramUrl": "https://instagram.com/erincorbettmusic",
+          "instagram": "@erincorbettmusic",
+          "bio": "Erin Corbett is an experimental musician, animator, and game designer from Kenora Ontario. Her focus on the intersection of sound design and songwriting has developed into a unique approach to live performance. By blending modular synthesis with electric & acoustic instrumentation, Erin constructs dynamic, colourful, and partially-improvised soundscapes to explore themes of alienation, 21st century decay, and queer/transgender euphoria. In 2020 she released her fourth full-length album \"Swelter Molt Sweat and Mettle\" on the Toronto-based label Biblioteka Records.",
+          "images": []
+        },
+        {
+          "id": "chiquitamagic",
+          "name": "chiquitamagic",
+          "instagramUrl": "https://instagram.com/chiquitamagic",
+          "instagram": "@chiquitamagic",
+          "bio": "chiquitamagic is an underground latinx artist / producer / dj from Bogotá, Colombia and based in Canada. Her music can be described as futuristic pop with elements of cumbia, funk, reggaeton, choral music & jazz. She uses microtonal synths, her voice, and drum machines to produce her strange and captivating sound.  ",
+          "images": []
+        },
+        {
+          "id": "j-moone",
+          "name": "J. Moone",
+          "instagramUrl": "https://instagram.com/jmoone14",
+          "instagram": "@jmoone14",
+          "bio": "I improvise guitar and sing. ",
+          "images": []
+        },
+        {
+          "id": "steven-noronha",
+          "name": "Steven Noronha",
+          "instagramUrl": "https://instagram.com/steven_noronha",
+          "instagram": "@steven_noronha",
+          "bio": "Steven Noronha is a Pianist, Composer and Improviser from Toronto Ontario. \nHe is currently completing his undergraduate degree at UofT. Steven is focused on exploring the boundaries of technical practice at the piano especially in the realm of rhythmic identity and hand independance. He is also interested in exploring the conventions of the performer/audience relationship. Currently he plays and performs in various groups around the city and is working towards recording an album of original compositions, sketches, and improvisations. ",
+          "images": []
+        },
+        {
+          "id": "zoma-tochi",
+          "name": "Zoma Tochi",
+          "instagramUrl": "https://instagram.com/idolh",
+          "instagram": "@idolh",
+          "bio": "Zoma is a musician, instructor, and new media installation artist based in Toronto. She specializes in experimental sound art, and more recently with spatial audio performance using DIY electronics and interactive media software. Holding a BFA in Integrated Media from OCAD, she teaches graphic design and new media at OCAD and TMU. Using sculpture, microcontrollers, Max/MSP, and digital fabrication, she designs unique interfaces for her musical performance practice. Zoma’s current project, “Is It Safe To Dream?” explores themes of memory, belief, personhood and spirituality by uncovering the sensory effects of sound spatialization. She is excited to have Exit Points as an improvisational space to test out these ideas and different techniques.",
+          "images": []
+        }
+      ],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 38,
+      "slug": "concert38",
+      "title": "Exit Points 38",
+      "date": "May 26",
+      "datetime": "2023-05-26T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [
+        {
+          "id": "delta-sine",
+          "name": "Delta-Sine",
+          "instagramUrl": "https://instagram.com/delta_sine",
+          "instagram": "@delta_sine",
+          "bio": "Growing out of the electronic live hardware, no computer, underground scenes of San Diego, Tijuana, and Los Angeles, synthesist Delta-Sine first got hist start co-organizing Open Oscillator, Southern-California's longest-running open mic for electronic musicians. From 2015 and on, Delta-Sine curated and performed at several renegade raves from Baja California to Los Angeles, and shaken warehouses in Mexico City, Berlin, Toronto, and Montreal.  His latest release 'Modular Letters from the Tijuana Underground' is a modular techno reworks album of the singles from the last 4 years of raving. \n",
+          "images": []
+        },
+        {
+          "id": "n-a",
+          "name": "n/a",
+          "instagramUrl": "https://instagram.com/gayleyoungmusic",
+          "instagram": "@gayleyoungmusic",
+          "bio": "The Amaranth, an instrument designed and built by Gayle Young, features 24 strings with moveable wooden bridges. Its strings can be tuned to any pitch and the instrument as a while provides a wide variety of sound textures. \nYoung builds instruments and sound installations to investigate and demonstrate unfamiliar worlds of sound. She has written extensively about innovations in music, including the biography of electronics pioneer Hugh Le Caine in \"The Sackbut Blues,\" and produced Musicworks Magazine for over two decades. ",
+          "images": []
+        },
+        {
+          "id": "magfoto",
+          "name": "magfoto",
+          "instagramUrl": "https://instagram.com/magfoto",
+          "instagram": "@magfoto",
+          "bio": "magfoto’s practice explores architectonic media interventions. He makes custom live coding tools for algorithmic composition and improvisation with analogue and digital synthesizers.",
+          "images": []
+        },
+        {
+          "id": "cymatiste",
+          "name": "cymatiste",
+          "instagramUrl": "https://instagram.com/cymatiste",
+          "instagram": "@cymatiste",
+          "bio": "Sarah Imrisek (cymatiste) is an artist and creative coder in Tkaronto/Toronto. She performs with the Endemics live coding ensemble, and makes art in the streets and with the community, including interactive media art installations, projection art, and painting murals and canvas. \"cymatiste\" is derived from \"cymatics,\" the study of sound vibrations on a physical medium. Her work seeks inspiration from nature to find pathways to personal and collective reintegration after trauma.",
+          "images": []
+        },
+        {
+          "id": "kavi",
+          "name": "Kavi",
+          "instagramUrl": "https://instagram.com/art_by_kavi",
+          "instagram": "@art_by_kavi",
+          "bio": "Kavi is an experimental multiple-media artist, a collaborator and a chaser of wild visual expressions. Her work and passion lie in object making, video projection and process-based & real-time data art. Kavi is pursuing a PhD in Computational Arts at York University, focusing on biophysical sensing and real-time data processing for immersive and performative installations. As part of the Endemics collective, we explore acoustic and visual world-building using live coding techniques and methodology. ",
+          "images": []
+        }
+      ],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 39,
+      "slug": "concert39",
+      "title": "Exit Points 39",
+      "date": "June 30",
+      "datetime": "2023-06-30T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [
+        {
+          "id": "n-a",
+          "name": "n/a",
+          "instagramUrl": "https://instagram.com/anmusiccomposer",
+          "instagram": "@anmusiccomposer",
+          "bio": "\nAndrew Noseworthy (he/him/his) is a multidisciplinary artist whose music reflects upon the acceptance/rejection of “locality,” while addressing ideas of post-regional spaces and questions of accessibility for the musical voices within them. His genre-fluid projects coalesce wide-ranging styles and distinct artistic practices, while building sustainable relationships through communal collaboration. He is a member of the post-genre duo laydøwn (with Yaz Lancaster) and the Toronto-based ensemble Contaqt. With Aeryn Santillan, he is a co-founder of the experimental hardcore duo this place is actually the worst and independent digital label people | places | records.",
+          "images": []
+        },
+        {
+          "id": "n-a",
+          "name": "n/a",
+          "instagramUrl": "https://instagram.com/veronicazupanic",
+          "instagram": "@veronicazupanic",
+          "bio": "Veronica Zupanic is a violinist based in Tkaronto (Toronto). As a performer, her interests are in the expansive sound spectrum of the violin and in the expressive potential of electronics. She  performs with the Contemporary Music Ensemble (CME) at the University of Toronto, which has recently collaborated with composers including Magnus Lindberg, Snežana Nešić, and Ana Sokolović. She has previously collaborated with the contemporary specialist Microcosmos Quartet in Vancouver. She is currently a graduate student in violin performance at the University of Toronto where she studies with Mark Fewer. ",
+          "images": []
+        },
+        {
+          "id": "ananya-ganesh",
+          "name": "Ananya Ganesh",
+          "instagramUrl": "https://instagram.com/ananyaganesh",
+          "instagram": "@ananyaganesh",
+          "bio": "Ananya Ganesh (b. 1997) is an improviser from Madras based in North America. Their idiosyncratically simultaneous improvisation of piano and voice lies between the unrealizable and what could be(coming). Playing with and at the limits of the ear and of embodiment, their work unfurls as an expression of indeterminacy, spontaneity, and the joys of dissonance and (in)access. Live performances, improvised from and with disregard for “maps” created for each venue, consist of modular short-form vignettes and long-form works. Ganesh sculpts these open forms through the explorations of dynamics, texture, density, registral color, imbricated lines, and sparseness.",
+          "images": []
+        },
+        {
+          "id": "alexander-vincent",
+          "name": "Alexander Vincent",
+          "instagramUrl": "https://instagram.com/_alex",
+          "instagram": "@_alex",
+          "bio": "\nAlexander Vincent has been working on a full length album for the past 2 years. He has leaned deeper into his artistic taste, leaning heavily on string arrangement, live instruments and cutting, cynical lyrics. The album \"If There's No Way Out\", is being be released one song at a time every month in 2023. The latest single is titled \"Hold My Leash\". \n\nAlexander rose to popularity as the drummer and co creater of the band Magic! Penning the song \"Rude\", which topped Billboard Hot 100's chart for 6 weeks. He was the recipient of 2 Juno awards and several Socan awards. Gaining him much respect as a writer/producer globally and in his home country of Canada. \n\nAs a producer, he has produced for notable artists such as Sabrina Claudio, Audrey Nuna, Son Lux, Allen Stone, Mahalia, Justin Nozuka, and featured artists Shakira and Sean Paul on 2 songs by Magic!\n\nHe is currently working on many musical projects with different artists ranging from pop to avant garde. Ever pushing forward his boundaries and exploring uncharted musical territory.\n",
+          "images": []
+        },
+        {
+          "id": "n-a",
+          "name": "n/a",
+          "instagramUrl": "https://instagram.com/bassguy23",
+          "instagram": "@bassguy23",
+          "bio": "Classically trained, Ron’s first love has always been Jazz. He has been professionally performing and recording, (locally and abroad), with a number of different groups since 1971.\n\nRon has also appeared in numerous TV shows and films as a musician extra, including being a main band member in the Oscar winning film “Chicago”.\n\n\nHe was one of the original members of the well known Hard Bop band “Kollage”. He performed and recorded with the group for their first nine years.\n\n\nCurrently, Ron can be seen working with Juno award winner Bob DeAngelis, The Tanya Wills Quartet, Fifth Element, as well as freelancing with many other groups in the Toronto area.\n\n\nIn addition to teaching privately, Ron is the bass instructor at the\nacclaimed St. Michael’s College School in Toronto.\n",
+          "images": []
+        },
+        {
+          "id": "alejandro",
+          "name": "Alejandro",
+          "instagramUrl": "https://instagram.com/piraran.ensamble",
+          "instagram": "@piraran.ensamble",
+          "bio": "Alejandro is a composer, live coder and sound artist from Mexico City, currently residing in Dish with One Spoon territory. Alejandro is also a PhD Candidate in the Department of Communications Studies and Media Arts at McMaster University. His research entails the development of infrastructure, interfaces, and protocols for online live-coded music and sound art creation. His research is related to the fields of sound studies, time studies, and internet studies with a perspective mediated by de-colonialism, anti-fascism, Marxism, and feminism. Some of his major interests are: time-oriented music, networked art ecologies and musical/technological notational systems. He makes algorithmic acid music and performs on-the-fly documentaries in the context of networked collaborations.",
+          "images": []
+        },
+        {
+          "id": "n-a",
+          "name": "n/a",
+          "instagramUrl": "https://instagram.com/n/a",
+          "instagram": "@n/a",
+          "bio": "n/a",
+          "images": []
+        }
+      ],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 40,
+      "slug": "concert40",
+      "title": "Exit Points 40",
+      "date": "July 28",
+      "datetime": "2023-07-28T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [
+        {
+          "id": "shn-shn",
+          "name": "shn shn",
+          "instagramUrl": "https://instagram.com/sh_n_sh_n_",
+          "instagram": "@sh_n_sh_n_",
+          "bio": "shn shn electronic producer, singer-songwriter and creator based in Toronto, Canada. Her music is an ever-changing experience, bending genres as she brings experimental elements from electronic, ambient, world music, folk and pop into her practice. Their work allows exploration, contemplation, reckoning with duality and the spaces in between.",
+          "images": []
+        },
+        {
+          "id": "n-a",
+          "name": "n/a",
+          "instagramUrl": "https://instagram.com/meghanbcheng",
+          "instagram": "@meghanbcheng",
+          "bio": "Meghan is a violinist and creative technologist.  She creates artwork in the form of light and sound sculptures, projection mapping or screen-based work for live performances, galleries and public spaces.  Meghan makes technology driven artwork that feels tangible, relatable and natural through the use of hand drawn images, photography, acoustic instrumental music as well as generative forms.  Meghan has a master’s in fine arts from York University (Toronto, ON) and a Bachelor of Music from Berklee College of Music (Boston, USA).",
+          "images": []
+        },
+        {
+          "id": "bruce-cassidy",
+          "name": "Bruce Cassidy",
+          "instagramUrl": "https://instagram.com/n/a",
+          "instagram": "@n/a",
+          "bio": "Composer, performer, and producer. Past member of Dr. Music, Boss Brass, Lighthouse, Blood Sweat and Tears. Produced music in South Africa for 22 years. Now a Ph.D. candidate in music at York. Taught improvisation trumpet and record production at Humber College and privately for many years. Own bands include Hotfoot Orchestra, Bruce Cassidy's Mbaqanga (South African Township music) and Bruce Cassidy's Anti-Gravity Machine (15-piece jazz chamber orchestra) Leading proponent of the Electronic Valve Instrument (EVI), a wind controller. ",
+          "images": []
+        },
+        {
+          "id": "subsume",
+          "name": "Subsume",
+          "instagramUrl": "https://instagram.com/subsume.wav",
+          "instagram": "@subsume.wav",
+          "bio": "Subsume is the moniker of Toronto-based improviser, researcher, and instrument designer Kieran Maraj. Their work explores the intersections of gesture, machine learning, and sound in order to create machines that collaborate with humans and amplify the experience of music making.",
+          "images": []
+        },
+        {
+          "id": "n-a",
+          "name": "n/a",
+          "instagramUrl": "https://instagram.com/dsguzheng",
+          "instagram": "@dsguzheng",
+          "bio": "David Sait is a Toronto-area musician, who for over 20 years has studied & performed on the guzheng (21-string zither). David has developed a unique voice through a collection of contemporary techniques & alternate tunings on an instrument with a rich, 2,000-year history.\n\nDavid performs as a solo artist, in small & large improvising ensembles, exploring one-off encounters & re-occurring collaborations and has also been a musical guest for the REAson d’etre Contact Dance Jam since 2007. \n\nThis is his 10,000-hour journey combining influences of World music, Classical, Film music, Foley Sound-Arts, Psych and many other styles. \n",
+          "images": []
+        },
+        {
+          "id": "xeynamay",
+          "name": "Xeynamay",
+          "instagramUrl": "https://instagram.com/xeynamay",
+          "instagram": "@xeynamay",
+          "bio": "Xeynamay is a multidisciplinary artist who explores various mediums to express her stories. With a focus on music, film, and movement, she forges a personal connection with sound, colors, and words, inspired by the realm of dreams. Her ultimate goal is to create art that resonates with others, inviting them to share in the realms of joy and inspiration. Rooted in boundless creativity, Xeynamay's art aims to captivate and uplift, forging meaningful connections through imagination and expression.",
+          "images": []
+        },
+        {
+          "id": "n-a",
+          "name": "n/a",
+          "instagramUrl": "https://instagram.com/madeleinertel",
+          "instagram": "@madeleinertel",
+          "bio": "Madeleine Ertel (she/her) is a trumpeter, composer, and arranger known for her honest and melodic approach to music making. A recent graduate of the University of Toronto with a Bachelor of Music in Jazz Performance (2020), she can be found performing in a wide variety of musical contexts throughout the Greater Toronto Area. In 2022 and 2023, Madeleine was selected as a finalist for the Toronto Arts Foundation’s Emerging Jazz Artist Award.",
+          "images": []
+        },
+        {
+          "id": "eyeduh-khoo",
+          "name": "EyeDuh Khoo",
+          "instagramUrl": "https://instagram.com/aidalistens",
+          "instagram": "@aidalistens",
+          "bio": "Originally from Tehran, Iran, Aida (written Aida but read Eye-duh) Khorsandi is a musician, researcher and music educator currently pursuing her doctoral studies at York University. Her research intersects between instrument design, interactivity, physical and sonic gestures and haptic engagements in sound making. She is interested in anything about sound and beyond. Aida enjoys listening to soundscapes while walking and biking. Aida’s philosophy to musicking is based on experimentation, welcoming chaos and randomness, unlearning hierarchies and ear training in musical practices, and decolonizing sounds and musics. She likes displaced sound objects, repetitive sounds, erratic sounds, and ever-shifting sounds. Aida uses found objects, samples, Max MSP and Ableton and modular synthesizers as her musicking tools. ",
+          "images": []
+        },
+        {
+          "id": "n-a",
+          "name": "n/a",
+          "instagramUrl": "https://instagram.com/diane roblin",
+          "instagram": "@diane roblin",
+          "bio": "Diane Roblin is a composer, pianist/keyboardist, improviser and band leader.  A student of world, electronic and  jazz music, she participated in NYC’s Karl Berger workshop at Ornette Coleman’s studio as well as in the Dutch Improv Academy with Hans Bennick.   From rockin' Rough Trade to improvisation with avant garde musician Charles Gayle, her performance experiences have been eclectic.  Her current LIFE FORCE six piece band performs her funk-jazz-impressionistic compositions which have been well received here and abroad.  Diane plays telematic music internationally with Sarah Weaver’s NowNetArts Hub and Trio Janela; she performs with Toronto Improviser Orchestra, Ladyfinger, Ossingtones, and Portage.  DIane is a member of the Association of Canadian Women Composers.",
+          "images": []
+        },
+        {
+          "id": "chibuzr",
+          "name": "Chibuzr",
+          "instagramUrl": "https://instagram.com/chibuzrmusic",
+          "instagram": "@chibuzrmusic",
+          "bio": "Welcome Regular Kids, to the Regular Kid Era !!!\nAs a Regular Kid himself Chibuzr has taken it upon himself to represent himself and all is alike through the songs in his upcoming EP “Regular Kid” . \nWith the first Single “Enough Love” out now on all streaming platforms, he will be going on the “Enough Love Open Mic Tour”, and will be doing his best to make every show, appearance, performance and song worth the trip to come join him on stage.\nMore information can be found on his page and will be updated regularly… do you get it … “regular” ly 😂😂😂. Anyway, enjoy the rest of the show, and the rest of your existence 😁",
+          "images": []
+        }
+      ],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 41,
+      "slug": "concert41",
+      "title": "Exit Points 41",
+      "date": "August 25",
+      "datetime": "2023-08-25T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [
+        {
+          "id": "n-a",
+          "name": "n/a",
+          "instagramUrl": "https://instagram.com/riselli.m",
+          "instagram": "@riselli.m",
+          "bio": "Mira Riselli (she/her) is an emerging bassist, composer and educator based in Toronto, ON. Her work spans multiple genres, including jazz, rock, pop and musical theatre.\n\nIn 2020, Mira was the recipient of the University of Toronto Ken Dean Memorial Fellowship, a University of Toronto Leadership award, and the winner of the NUMUS Emerging Improvisor contest. In 2022, she graduated from the University of Toronto with a Master of Music in Jazz Performance. \n\nMira is the founder and curator of Solitary Shrew, a monthly residency at the TRANZAC that features performances by gender non-confirming and women artists. She recently released the first issue of the Solitary Shrew Zine, which features interviews and artwork by this month’s performers. \n\nCredit to Ali Rashid @ali_rashid_7 on alto sax in the featured video",
+          "images": []
+        },
+        {
+          "id": "lex-feathers",
+          "name": "Lex Feathers",
+          "instagramUrl": "https://instagram.com/lex.feathers",
+          "instagram": "@lex.feathers",
+          "bio": "Lex is a Toronto-based Composer for digital games. Since 2016, she has been exploring the melding of sound and game design through client work and personal projects. Working with developers to breathe life into games is what draws her to the medium, with a focus on world building and designing soundscapes that fit the universe of a project.\nOutside of game audio, Lex handles songwriting, performance and production in her band Waxlimbs, whose electrifying live shows can be experienced around the Toronto music scene.",
+          "images": []
+        },
+        {
+          "id": "josh-cole",
+          "name": "Josh Cole",
+          "instagramUrl": "https://instagram.com/n/a",
+          "instagram": "@n/a",
+          "bio": "“Cole can be coolly lyrical, he can write a controlled “classical” counterpoint, he can drop in some funk, and he can also let the improvisers loose in the stratosphere.” - Popmatters.com\n\n\n“I like the trio's (Kind Mind)  unique musical vision, its tender and determined sound and the way it is delivered: with quality and precision. To create your own voice in the crowded musical environment of today is a feat.”   -Stef Gijssels,  FreeJazzBlog.org\n\n\n“Cole plays an extremely strange, distorted solo\" - Art Music Lounge\n\n\n    Originally from Vancouver, Canada, bassist and composer Josh Cole co-founded the critically acclaimed October Trio with Dan Gaucher and Evan Arntzen in 2004. In the years following Josh lived in Vancouver where he participated in the jazz community performing and recording with Brad Turner, Ron Samworth, George Mcfetridge, and many others. Since moving to Toronto in 2010 Josh has worked with Sandro Perri,  Luka Kuplowsky,  Brodie West, Nick Fraser, Ryan Driver, Lina Allemano, Thom Gill, Robin Dann (Bernice), Tasseomany, Allison Cameron, Ken Aldcroft, Colin Fisher, Prince Nifty, Peter Zummo, Martha Wainwright, Rufus Wainwright,  Anna Mcgarrigle, Devon Sproule, Michelle Willis, and Knower amongst others. In addition to performing, Josh taught digital composition at the Sarah Mclachlan Music Outreach in Vancouver from 2007-2010, and has been teaching privately since 2002.\n\n\n     Josh leads the chamber ensemble Kind Mind with Karen Ng (alto sax) and Michael Davidson (vibraphone), as well as being a frequent collaborator with these bands/projects: the Brodie West Quintet, Sandro Perri, Luka Kulplowsky (and the Ryokan Blues Band), and Craig Dunsmuir’s Dun Dun Band. ",
+          "images": []
+        },
+        {
+          "id": "n-a",
+          "name": "n/a",
+          "instagramUrl": "https://instagram.com/n/a",
+          "instagram": "@n/a",
+          "bio": "Bruce Cassidy is one of the foremost proponents of the EVI (Electronic Valve Instrument). Originally a self-taught musician, Bruce studied trumpet and composition at Berklee College of Music. After earning a BSc in experimental psychology from Dalhousie University, he joined renowned bands Lighthouse and The Boss Brass. As musical director for Blood Sweat and Tears, he toured and recorded for two years before moving to Los Angeles. Bruce spent over two decades as a film and media composer in South Africa. Returning to Toronto in 2003, he served as Musical Director for David Clayton Thomas for five years. Bruce teaches and leads three Toronto-based jazz groups; He is a Ph.D. candidate in composition at York University—more at www.BruceCassidyMusic.com.\n",
+          "images": []
+        },
+        {
+          "id": "n-a",
+          "name": "n/a",
+          "instagramUrl": "https://instagram.com/toonganga",
+          "instagram": "@toonganga",
+          "bio": "kat estacio is a Tkaronto-based creative and recovering overachiever. Their sound and visual art practice often focuses on collaborative and exploratory projects. They blend analog and acoustic elements with digital and electronic as a palette for self-expression. Informed by their lived experience as a diasporic queer racialized woman, kat centres intentional and embodied remembering in creating for the senses. They are also a member of Pantayo, a queer Filipinx kulintang gong ensemble. \n\n",
+          "images": []
+        },
+        {
+          "id": "sara-constant",
+          "name": "Sara Constant",
+          "instagramUrl": "https://instagram.com/sconstantly",
+          "instagram": "@sconstantly",
+          "bio": "Sara Constant is a Tkarón:to/Toronto-based musician and artist working in various forms of contemporary/experimental music and sound. Trained as a flute player and active as a soloist, improviser, sound artist, and ensemble musician, Sara’s work involves interpretations of composed music for flute, improvisations with instruments and electronics, and installation work with objects and loudspeakers, to explore ideas around listening, resonance, and place.",
+          "images": []
+        },
+        {
+          "id": "bachelard",
+          "name": "bachelard",
+          "instagramUrl": "https://instagram.com/n/a",
+          "instagram": "@n/a",
+          "bio": "bachelard is the solo music project of Heidi Chan. Based in Toronto, Heidi works with music and sound for theatre and dance, plays modular synthesizers, and performs Japanese folk music and other traditional musics in various cross-cultural collectives.",
+          "images": []
+        },
+        {
+          "id": "paris-unltd",
+          "name": "Paris Unltd",
+          "instagramUrl": "https://instagram.com/parisunltd",
+          "instagram": "@parisunltd",
+          "bio": "Paris Unltd is an electronic artist that pulls from alt-rock and afro-house music aesthetics. \n\nParis has spent the past year and a half producing music, experimenting with the creation and collaboration processes, which has allowed for him to re-contextualize his music and artistry. It’s also been a year of exploring the business side of music, having worked at 2 major labels. These experiences have renewed the importance of integrity, community and connection through art for the Paris Unltd project. ",
+          "images": []
+        },
+        {
+          "id": "gladys",
+          "name": "Gladys",
+          "instagramUrl": "https://instagram.com/moda.mide.lele",
+          "instagram": "@moda.mide.lele",
+          "bio": "Born in montreal from a hatian mother. I Spent most of my life in Toronto. In the past several months, I have been meeting all these beautiful intersecting communities in art and expression. It all started at tranzac for me. Met some performers at an event there, watched closely where they were playing around the city and eventually met more folk. My biggest influences are a fusion of jazz, Brazilian, experimental ,west African rhythms and percussion.\n\nI'm in a group named: Moda Mid Century. We have just initiated liftoff. our last show, aug 9th. Quite a trip. ",
+          "images": []
+        },
+        {
+          "id": "jen-lo",
+          "name": "Jen Lo",
+          "instagramUrl": "https://instagram.com/jjjen.lo",
+          "instagram": "@jjjen.lo",
+          "bio": "Originally from Macau, China, Jen Lo is a classically trained jazz pianist, composer, and educator with a Bachelor of Music in Jazz Piano Performance from the University of Toronto with (2021) where she studied with many great Canadian jazz pianists including David Restivo, Noam Lemish, Mark Eisenman and David Braid. \nJen is an active member of the Toronto jazz community, performing regularly in various venues around the city. She has also performed in numerous music festivals including the Toronto Undergraduate Jazz Fest, TD Toronto Jazz Festival, and Niagara Falls Jazz Festival. \nJen has not only worked with many great early-career artists in the Toronto jazz and R&B scene, but she has also shared the stage with some of the most prominent musicians in Canada’s jazz scene such as Tara Davidson, William Carn, Patrick Smith, Robert Lee and many more. ",
+          "images": []
+        }
+      ],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 42,
+      "slug": "concert42",
+      "title": "Exit Points 42",
+      "date": "September 29",
+      "datetime": "2023-09-29T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 43,
+      "slug": "concert43",
+      "title": "Exit Points 43",
+      "date": "October 27",
+      "datetime": "2023-10-27T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 44,
+      "slug": "concert44",
+      "title": "Exit Points 44",
+      "date": "November 24",
+      "datetime": "2023-11-24T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 45,
+      "slug": "concert45",
+      "title": "Exit Points 45",
+      "date": "January 26",
+      "datetime": "2024-01-26T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 46,
+      "slug": "concert46",
+      "title": "Exit Points 46",
+      "date": "February 23",
+      "datetime": "2024-02-23T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 47,
+      "slug": "concert47",
+      "title": "Exit Points 47",
+      "date": "March 29",
+      "datetime": "2024-03-29T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 48,
+      "slug": "concert48",
+      "title": "Exit Points 48",
+      "date": "April 26",
+      "datetime": "2024-04-26T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 49,
+      "slug": "concert49",
+      "title": "Exit Points 49",
+      "date": "May 31",
+      "datetime": "2024-05-31T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 50,
+      "slug": "concert50",
+      "title": "Exit Points 50",
+      "date": "June 28",
+      "datetime": "2024-06-28T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 51,
+      "slug": "concert51",
+      "title": "Exit Points 51",
+      "date": "July 26",
+      "datetime": "2024-07-26T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 52,
+      "slug": "concert52",
+      "title": "Exit Points 52",
+      "date": "August 30",
+      "datetime": "2024-08-30T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 53,
+      "slug": "concert53",
+      "title": "Exit Points 53",
+      "date": "September 27",
+      "datetime": "2024-09-27T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 54,
+      "slug": "concert54",
+      "title": "Exit Points 54",
+      "date": "October 25",
+      "datetime": "2024-10-25T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 55,
+      "slug": "concert55",
+      "title": "Exit Points 55",
+      "date": "November 29",
+      "datetime": "2024-11-29T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 56,
+      "slug": "concert56",
+      "title": "Exit Points 56",
+      "date": "January 31",
+      "datetime": "2025-01-31T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 57,
+      "slug": "concert57",
+      "title": "Exit Points 57",
+      "date": "February 28",
+      "datetime": "2025-02-28T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 58,
+      "slug": "concert58",
+      "title": "Exit Points 58",
+      "date": "March 28",
+      "datetime": "2025-03-28T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 59,
+      "slug": "concert59",
+      "title": "Exit Points 59",
+      "date": "April 25",
+      "datetime": "2025-04-25T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 60,
+      "slug": "concert60",
+      "title": "Exit Points 60",
+      "date": "May 30",
+      "datetime": "2025-05-30T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 61,
+      "slug": "concert61",
+      "title": "Exit Points 61",
+      "date": "June 27",
+      "datetime": "2025-06-27T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 62,
+      "slug": "concert62",
+      "title": "Exit Points 62",
+      "date": "July 25",
+      "datetime": "2025-07-25T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 63,
+      "slug": "concert63",
+      "title": "Exit Points 63",
+      "date": "August 29",
+      "datetime": "2025-08-29T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 64,
+      "slug": "concert64",
+      "title": "Exit Points 64",
+      "date": "September 26",
+      "datetime": "2025-09-26T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 65,
+      "slug": "concert65",
+      "title": "Exit Points 65",
+      "date": "October 31",
+      "datetime": "2025-10-31T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 66,
+      "slug": "concert66",
+      "title": "Exit Points 66",
+      "date": "November 28",
+      "datetime": "2025-11-28T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 67,
+      "slug": "concert67",
+      "title": "Exit Points 67",
+      "date": "January 30",
+      "datetime": "2026-01-30T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 68,
+      "slug": "concert68",
+      "title": "Exit Points 68",
+      "date": "February 27",
+      "datetime": "2026-02-27T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 70,
+      "slug": "concert70",
+      "title": "Exit Points 70",
+      "date": "March 27",
+      "datetime": "2026-03-27T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 71,
+      "slug": "concert71",
+      "title": "Exit Points 71",
+      "date": "April 24",
+      "datetime": "2026-04-24T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 72,
+      "slug": "concert72",
+      "title": "Exit Points 72",
+      "date": "May 29",
+      "datetime": "2026-05-29T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 73,
+      "slug": "concert73",
+      "title": "Exit Points 73",
+      "date": "June 26",
+      "datetime": "2026-06-26T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 74,
+      "slug": "concert74",
+      "title": "Exit Points 74",
+      "date": "July 31",
+      "datetime": "2026-07-31T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 75,
+      "slug": "concert75",
+      "title": "Exit Points 75",
+      "date": "August 28",
+      "datetime": "2026-08-28T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 76,
+      "slug": "concert76",
+      "title": "Exit Points 76",
+      "date": "September 25",
+      "datetime": "2026-09-25T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 77,
+      "slug": "concert77",
+      "title": "Exit Points 77",
+      "date": "October 30",
+      "datetime": "2026-10-30T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 78,
+      "slug": "concert78",
+      "title": "Exit Points 78",
+      "date": "November 27",
+      "datetime": "2026-11-27T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 79,
+      "slug": "concert79",
+      "title": "Exit Points 79",
+      "date": "January 29",
+      "datetime": "2027-01-29T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 80,
+      "slug": "concert80",
+      "title": "Exit Points 80",
+      "date": "February 26",
+      "datetime": "2027-02-26T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 81,
+      "slug": "concert81",
+      "title": "Exit Points 81",
+      "date": "March 26",
+      "datetime": "2027-03-26T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 82,
+      "slug": "concert82",
+      "title": "Exit Points 82",
+      "date": "April 30",
+      "datetime": "2027-04-30T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 83,
+      "slug": "concert83",
+      "title": "Exit Points 83",
+      "date": "May 28",
+      "datetime": "2027-05-28T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 84,
+      "slug": "concert84",
+      "title": "Exit Points 84",
+      "date": "June 25",
+      "datetime": "2027-06-25T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 85,
+      "slug": "concert85",
+      "title": "Exit Points 85",
+      "date": "July 30",
+      "datetime": "2027-07-30T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 86,
+      "slug": "concert86",
+      "title": "Exit Points 86",
+      "date": "August 27",
+      "datetime": "2027-08-27T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 87,
+      "slug": "concert87",
+      "title": "Exit Points 87",
+      "date": "September 24",
+      "datetime": "2027-09-24T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 88,
+      "slug": "concert88",
+      "title": "Exit Points 88",
+      "date": "October 29",
+      "datetime": "2027-10-29T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 89,
+      "slug": "concert89",
+      "title": "Exit Points 89",
+      "date": "November 26",
+      "datetime": "2027-11-26T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 90,
+      "slug": "concert90",
+      "title": "Exit Points 90",
+      "date": "January 28",
+      "datetime": "2028-01-28T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 91,
+      "slug": "concert91",
+      "title": "Exit Points 91",
+      "date": "February 25",
+      "datetime": "2028-02-25T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 92,
+      "slug": "concert92",
+      "title": "Exit Points 92",
+      "date": "March 31",
+      "datetime": "2028-03-31T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 93,
+      "slug": "concert93",
+      "title": "Exit Points 93",
+      "date": "April 28",
+      "datetime": "2028-04-28T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 94,
+      "slug": "concert94",
+      "title": "Exit Points 94",
+      "date": "May 26",
+      "datetime": "2028-05-26T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 95,
+      "slug": "concert95",
+      "title": "Exit Points 95",
+      "date": "June 30",
+      "datetime": "2028-06-30T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 96,
+      "slug": "concert96",
+      "title": "Exit Points 96",
+      "date": "July 28",
+      "datetime": "2028-07-28T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 97,
+      "slug": "concert97",
+      "title": "Exit Points 97",
+      "date": "August 25",
+      "datetime": "2028-08-25T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 98,
+      "slug": "concert98",
+      "title": "Exit Points 98",
+      "date": "September 29",
+      "datetime": "2028-09-29T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 99,
+      "slug": "concert99",
+      "title": "Exit Points 99",
+      "date": "October 27",
+      "datetime": "2028-10-27T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 100,
+      "slug": "concert100",
+      "title": "Exit Points 100",
+      "date": "November 24",
+      "datetime": "2028-11-24T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 101,
+      "slug": "concert101",
+      "title": "Exit Points 101",
+      "date": "January 26",
+      "datetime": "2029-01-26T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 102,
+      "slug": "concert102",
+      "title": "Exit Points 102",
+      "date": "February 23",
+      "datetime": "2029-02-23T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    },
+    {
+      "number": 103,
+      "slug": "concert103",
+      "title": "Exit Points 103",
+      "date": "March 30",
+      "datetime": "2029-03-30T20:00:00-04:00",
+      "doorsTime": "7:30pm",
+      "showTime": "8pm Sharp",
+      "partners": [],
+      "venue": {
+        "name": "Arraymusic",
+        "address": "155 Walnut Ave",
+        "city": "Toronto",
+        "country": "Canada",
+        "accessibilityNote": "Wheelchair Accessible (Ramp, Service Elevator, Washroom)"
+      },
+      "ticket": {
+        "url": "",
+        "label": "Buy tickets",
+        "provider": ""
+      },
+      "artists": [],
+      "archive": {
+        "socialPosts": [],
+        "documentation": {
+          "photos": [],
+          "videos": []
+        },
+        "album": {
+          "status": "none",
+          "note": "",
+          "bandcampUrl": null,
+          "subvertUrl": null,
+          "releaseDate": null
+        }
+      }
+    }
+  ]
+}

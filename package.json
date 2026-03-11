@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "images": "cd ./images && node app.js",
     "videos": "cd ./videos && node app.js",
-    "profiles": "cd ./artist-profiles && node app.js"
+    "profiles": "cd ./artist-profiles && node app.js",
+    "concertPage": "cd ./build-concert-page && node app.js"
+
   },
   "author": "",
   "license": "ISC"
